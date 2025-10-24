@@ -3,7 +3,7 @@ services:
     image: mysql:8
     container_name: mysql-db
     environment:
-      MYSQL_ROOT_PASSWORD: Charitha@2609
+      MYSQL_ROOT_PASSWORD:Charitha@2609
       
       MYSQL_DATABASE: examdb205
     ports:
